@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" />
 
 <h1 align="center">Hi 👋, I'm Bruce NKUNDABAGENZI</h1>
 <h3 align="center">A passionate Full-stack developer from Rwanda</h3>
