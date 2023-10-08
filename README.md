@@ -1,8 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqrcazX3XQi76h7VztxdmvcTaXtUAdxv3BvSQRPV_4LR7QMFFkCQKqcO4ORlSdy8hb5-c&usqp=CAU" alt="Coding" width="400"/>
+
 <h1 align="center">Hi 👋, I'm Bruce NKUNDABAGENZI</h1>
 <h3 align="center">A passionate Full-stack developer from Rwanda</h3>
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqrcazX3XQi76h7VztxdmvcTaXtUAdxv3BvSQRPV_4LR7QMFFkCQKqcO4ORlSdy8hb5-c&usqp=CAU" alt="Coding" width="400"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nbru-cee&label=Profile%20views&color=0e75b6&style=flat" alt="nbru-cee" /> </p>
 
 - 🔭 I’m currently working on **Google clone**
