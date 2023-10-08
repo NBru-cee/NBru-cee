@@ -1,4 +1,4 @@
-<img src="https://photos.google.com/album/AF1QipMX3LfDeQ9-juKjTPpP5Qes6ZPHlC1q_6UbLNrd/photo/AF1QipMEdizT6nRZKDQAvJFZPuW1NGY9HgDrYtDstD0Z" alt="bruce"/>
+<img src="https://[photos.google.com/album/AF1QipMX3LfDeQ9-juKjTPpP5Qes6ZPHlC1q_6UbLNrd/photo/AF1QipMEdizT6nRZKDQAvJFZPuW1NGY9HgDrYtDstD0Z](https://photos.app.goo.gl/hrrKBphSbqff7zGU6)" alt="bruce"/>
 <h1 align="center">Hi 👋, I'm Bruce NKUNDABAGENZI</h1>
 <h3 align="center">A passionate Full-stack developer from Rwanda</h3>
 
