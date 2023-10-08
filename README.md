@@ -1,10 +1,11 @@
-<img src="https://[photos.google.com/album/AF1QipMX3LfDeQ9-juKjTPpP5Qes6ZPHlC1q_6UbLNrd/photo/AF1QipMEdizT6nRZKDQAvJFZPuW1NGY9HgDrYtDstD0Z](https://photos.app.goo.gl/hrrKBphSbqff7zGU6)" alt="bruce"/>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqrcazX3XQi76h7VztxdmvcTaXtUAdxv3BvSQRPV_4LR7QMFFkCQKqcO4ORlSdy8hb5-c&usqp=CAU" alt="Coding" width="400"/>
 <h1 align="center">Hi 👋, I'm Bruce NKUNDABAGENZI</h1>
 <h3 align="center">A passionate Full-stack developer from Rwanda</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nbru-cee&label=Profile%20views&color=0e75b6&style=flat" alt="nbru-cee" /> </p>
 
-- 🔭 I’m currently working on **App development**
+- 🔭 I’m currently working on **Google clone**
 
 - 🌱 I’m currently learning **Java, Spring Boot**
 
