@@ -1,4 +1,4 @@
-![Masterhead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/196519371/original/1b9ecc9964d6484f99d8215b3e07de986f67de6e/make-custom-android-app-with-android-studio.png)
+![Masterhead](https://media.istockphoto.com/id/1137735902/vector/software-development-programming-laptop.jpg)
 
 <h1 align="center">Hi 👋, I'm Bruce NKUNDABAGENZI</h1>
 <h3 align="center">A Full-stack developer from Rwanda</h3>
