@@ -1,4 +1,4 @@
-![Masterhead](https://media.istockphoto.com/id/1137735902/vector/software-development-programming-laptop.jpg)
+![Masterhead](https://img.freepik.com/premium-vector/programming-code-made-with-binary-code-coding-hacker-background-digital-binary-data-streaming-digital-code_127544-778.jpg)
 
 <h1 align="center">Hi 👋, I'm Bruce NKUNDABAGENZI</h1>
 <h3 align="center">A Full-stack developer from Rwanda</h3>
