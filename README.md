@@ -1,5 +1,5 @@
 <picture>
-  <img src="https://img.freepik.com/premium-vector/programming-code-made-with-binary-code-coding-hacker-background-digital-binary-data-streaming-digital-code_127544-778.jpg" width="100%">
+  <img src="https://wallpapers.com/images/hd/binary-code-code-numbers-green-glow-agx3h70ga36galq2.webp" width="100%">
 </picture>
 <h1 align="center">Hi 👋, I'm Bruce NKUNDABAGENZI</h1>
 <h3 align="center">A Full-stack developer from Rwanda</h3>
