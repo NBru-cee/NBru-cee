@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://bruce-portfolio.netlify.app/](https://bruce-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://brucenkundabagenzi.netlify.app/](https://brucenkundabagenzi.netlify.app/)
 
 - 💬 Ask me about **MERN, DSA**
 
